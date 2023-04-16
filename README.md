@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a full-stack software engineer with interests in backend development, systems, and security
+I'm an experienced full-stack software engineer with interests in backend development, systems, and security
